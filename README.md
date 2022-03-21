@@ -20,6 +20,8 @@ A notebook on compiler design and research.
   - [Libraries](llvm/libraries.md)
   - [Language reference](llvm/langref.md)
   - [Version history](llvm/version_history.md)
+- MLIR
+  - [Libraries](mlir/libraries.md)
 - WebAssembly
   - [Bringing the Web up to Speed with WebAssembly](webassembly/pldi17_haas.md)
   - [Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code](webassembly/atc19_jangda.md)
