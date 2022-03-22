@@ -21,6 +21,7 @@ A notebook on compiler design and research.
   - [Language reference](llvm/langref.md)
   - [Version history](llvm/version_history.md)
 - MLIR
+  - [Tutorials](mlir/tutorials.md)
   - [Libraries](mlir/libraries.md)
 - WebAssembly
   - [Bringing the Web up to Speed with WebAssembly](webassembly/pldi17_haas.md)
