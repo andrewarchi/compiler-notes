@@ -23,6 +23,7 @@ A notebook on compiler design and research.
 - MLIR
   - [Tutorials](mlir/tutorials.md)
   - [Libraries](mlir/libraries.md)
+- [Rust](rust/rust.md)
 - WebAssembly
   - [Bringing the Web up to Speed with WebAssembly](webassembly/pldi17_haas.md)
   - [Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code](webassembly/atc19_jangda.md)
@@ -30,6 +31,5 @@ A notebook on compiler design and research.
 - [QBE](qbe.md)
 - [CompCert](compcert.md)
 - Mesa [NIR](mesa_nir.md)
-- [Parsing](parsing.md)
 
 Licensed under the terms of the GNU Free Documentation License, version 1.3.
