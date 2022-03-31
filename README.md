@@ -29,6 +29,7 @@ A notebook on compiler design and research.
   - [Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code](webassembly/atc19_jangda.md)
   - [Multi-Value All the Wasm!](webassembly/multi_value.md)
 - [QBE](qbe.md)
+- [Futamura projections](futamura.md)
 - [CompCert](compcert.md)
 - Mesa [NIR](mesa_nir.md)
 
