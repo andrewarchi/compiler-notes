@@ -32,5 +32,6 @@ A notebook on compiler design and research.
 - [Futamura projections](futamura.md)
 - [CompCert](compcert.md)
 - Mesa [NIR](mesa_nir.md)
+- [Miscellaneous](misc.md)
 
 Licensed under the terms of the GNU Free Documentation License, version 1.3.
