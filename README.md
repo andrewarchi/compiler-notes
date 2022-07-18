@@ -31,7 +31,11 @@ A notebook on compiler design and research.
   - [Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code](webassembly/atc19_jangda.md)
   - [Multi-Value All the Wasm!](webassembly/multi_value.md)
 - [QBE](qbe.md)
-- [Futamura projections](futamura.md)
+- Futamura projections
+  - [Partial Evaluation of Computation Process: An Approach to a Compiler-Compiler](futamura/futamura.md)
+  - [Practical Second Futamura Projection: Partial Evaluation for High-Performance Language Interpreters](futamura/graal.md)
+- Adapton
+  - [Incremental Computation with Adapton](adapton/boulder2015.md)
 - [CompCert](compcert.md)
 - [Zig](zig.md)
 - Mesa [NIR](mesa_nir.md)
