@@ -14,7 +14,7 @@ A notebook on compiler design and research.
       - Enzyme: High-Performance Automatic Differentiation of LLVM
     - [MLIR Tutorial](llvm/devmtg_2020-10/mlir_tutorial.md)
     - [CIL: Common MLIR Dialect for C/C++ and Fortran](llvm/devmtg_2020-10/cil_mlir_dialect.md)
-  - [LLVM architecture presentation](llvm/presentation_outline.md)
+  - [LLVM architecture presentation](llvm/presentation_outline.md) (2022)
   - [Tutorials](llvm/tutorials.md)
   - [Resources](llvm/resources.md)
   - [Libraries](llvm/libraries.md)
@@ -35,7 +35,13 @@ A notebook on compiler design and research.
   - [Partial Evaluation of Computation Process: An Approach to a Compiler-Compiler](futamura/futamura.md)
   - [Practical Second Futamura Projection: Partial Evaluation for High-Performance Language Interpreters](futamura/graal.md)
 - Adapton
+  - [Adapton: Composable, Demand-Driven Incremental Computation](adapton/pldi2014.md)
+    (PLDI 2014)
   - [Incremental Computation with Adapton](adapton/boulder2015.md)
+    (University of Colorado Boulder, 2015)
+  - [miniAdapton: A Minimal Implementation of Incremental Computation in Scheme](adapton/miniAdapton.md)
+    (2016)
+  - [Presentation outline](adapton/presentation_outline.md) (2022)
 - [CompCert](compcert.md)
 - [Zig](zig.md)
 - Mesa [NIR](mesa_nir.md)
